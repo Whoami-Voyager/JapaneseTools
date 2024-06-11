@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        japaneseRed: "#BC002D"
+      },
+      fontFamily: {
+        Japanese: ['Japanese', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }

@@ -1,5 +1,9 @@
-function ToolDetails(){
-
+function ToolCards() {
+    return (
+        <>
+        
+        </>
+    )
 }
 
-export default ToolDetails
+export default ToolCards

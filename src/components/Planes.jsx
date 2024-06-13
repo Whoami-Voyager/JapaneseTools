@@ -4,6 +4,9 @@ function Planes() {
     return (
         <>
             <Navbar />
+            <div>
+                
+            </div>
         </>
     )
 }

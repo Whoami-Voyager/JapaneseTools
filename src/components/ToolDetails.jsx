@@ -17,6 +17,9 @@ function ToolDetails() {
     const detail = all.find(detail => detail.id === detailId)
     return (
         <>
+        <div>
+            <Link to='/'>⬅ Back</Link>
+        </div>
             <div className="flex flex-row">
                 <img src={detail.image} />
                 <div>

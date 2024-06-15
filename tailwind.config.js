@@ -7,10 +7,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        japaneseRed: "#BC002D"
+        japaneseRed: "#BC002D",
+        cherryBlossom: "#FFB7C5"
       },
       fontFamily: {
-        Japanese: ['Japanese', 'sans-serif']
+        Japanese: ['Japanese', 'sans-serif'],
+        TTNorms: ['TTNorms', 'sans-serif']
       }
     },
   },

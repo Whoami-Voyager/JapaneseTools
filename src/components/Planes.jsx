@@ -22,7 +22,7 @@ function Planes() {
     return (
         <>
             <Navbar />
-            <div>
+            <div className="flex flex-row m-8 font-TTNorms">
                 {items}
             </div>
         </>

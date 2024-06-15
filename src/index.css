@@ -6,3 +6,8 @@
     font-family: 'Japanese';
     src: url(../Japan\ Gate\ demo.otf);
 }
+
+@font-face {
+    font-family: 'TTNorms';
+    src: url(../TTNorms-Regular.otf);
+}
